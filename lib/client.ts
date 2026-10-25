@@ -14,7 +14,9 @@ export async function api<T>(path:string,options:RequestInit={}):Promise<T>{
   const access=token();if(access)headers.set('x-animal-session',access);
   if(path.startsWith('/api/admin/')){const session=await supabase!.auth.getSession();if(session.data.session)headers.set('Authorization',`Bearer ${session.data.session.access_token}`);}
   let response:Response;
-  try{response=await fetch(`${url}/functions/v1/animal-api${path.replace(/^\/api/,'')}`,{...options,headers,cache:'no-store',credentials:'omit'});}catch{throw new ApiError('暂时连接不上测评服务，请检查网络后重试。',0,{});}
+  // Netlify forwards production requests; customers only connect to the website's domain.
+  const endpoint=import.meta.env.PROD?`${import.meta.env.BASE_URL}api${path.replace(/^\/api/,'')}`:`${url}/functions/v1/animal-api${path.replace(/^\/api/,'')}`;
+  try{response=await fetch(endpoint,{...options,headers,cache:'no-store',credentials:'omit'});}catch{throw new ApiError('暂时连接不上测评服务，请检查网络后重试。',0,{});}
   const data=await response.json().catch(()=>({error:'测评服务暂时不可用，请稍后重试。'})) as T&{error?:string;sessionToken?:string};
   if(!response.ok)throw new ApiError(data.error||'请求没有成功，请稍后重试。',response.status,data as Record<string,unknown>);
   if(data.sessionToken)saveToken(data.sessionToken);

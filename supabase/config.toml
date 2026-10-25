@@ -1,4 +1,8 @@
 project_id = "animal-personality-cloud"
+[auth]
+site_url = "https://animal-mirror-yc.netlify.app/"
+additional_redirect_urls = ["https://animal-mirror-yc.netlify.app/"]
+enable_signup = false
 [functions.animal-api]
 # Public result links and store access codes do not use Supabase user JWTs.
 # The handler authenticates access sessions and verifies admin JWTs explicitly.

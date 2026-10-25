@@ -3,6 +3,11 @@
   publish = "dist"
 [build.environment]
   NODE_VERSION = "24"
+[[redirects]]
+  from = "/api/*"
+  to = "https://oezgjmunhqowkunkdely.supabase.co/functions/v1/animal-api/:splat"
+  status = 200
+  force = true
 [[headers]]
   for = "/*"
   [headers.values]
