@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title-black-cat">
+  <title id="title-black-cat">安静坐着的黑猫</title>
+  <g stroke="#4b4037" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="120" cy="219" rx="68" ry="9" fill="#e8dfd1" stroke="none"/>
+    <path d="M161 179q46-13 42 13c-2 17-22 22-43 14" fill="none" stroke="#494a46" stroke-width="17"/>
+    <path d="M85 153q-17 28-12 59c22 12 72 12 94 0q5-31-12-59" fill="#494a46"/>
+    <path d="M61 99 65 39l42 27q13-4 26 0l42-27 4 60q15 18 13 41c-4 30-31 47-72 47s-68-17-72-47q-2-23 13-41z" fill="#494a46"/>
+    <path d="m75 58 4 32 18-16m68-16-4 32-18-16" fill="#b98d87" stroke="none"/>
+    <ellipse cx="87" cy="119" rx="12" ry="15" fill="#c7cf9c" stroke="none"/>
+    <ellipse cx="153" cy="119" rx="12" ry="15" fill="#c7cf9c" stroke="none"/>
+    <path d="M88 113v10m64-10v10" stroke="#343733" stroke-width="5"/>
+    <path d="m114 141 6 5 6-5" fill="#d7b9a9" stroke="#d7b9a9" stroke-width="4"/>
+    <path d="M120 147v6m-10 4q10 6 20 0" fill="none" stroke="#dfd4bf" stroke-width="3"/>
+    <path d="m74 144-29-5m30 14-28 4m119-13 29-5m-30 14 28 4" stroke="#c4bda9" stroke-width="3"/>
+    <path d="M105 190v23m30-23v23" stroke="#716e62" stroke-width="3"/>
+  </g>
+</svg>

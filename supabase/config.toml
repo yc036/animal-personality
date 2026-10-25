@@ -1,0 +1,5 @@
+project_id = "animal-personality-cloud"
+[functions.animal-api]
+# Public result links and store access codes do not use Supabase user JWTs.
+# The handler authenticates access sessions and verifies admin JWTs explicitly.
+verify_jwt = false

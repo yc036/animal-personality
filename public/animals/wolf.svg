@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title-wolf">
+  <title id="title-wolf">平静友好的灰色小狼</title>
+  <g stroke="#4b4037" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="120" cy="220" rx="68" ry="8" fill="#e8dfd1" stroke="none"/>
+    <path d="M83 162q-17 24-13 50c24 12 76 12 100 0q4-26-13-50" fill="#9daaa5"/>
+    <path d="m94 172 26 38 26-38" fill="#e4e4d7" stroke="none"/>
+    <path d="m63 95 5-61 39 33q13-3 26 0l39-33 5 61 16 22-13 7 13 17-25 7q-13 34-48 42-35-8-48-42l-25-7 13-17-13-7z" fill="#9daaa5"/>
+    <path d="m78 52 3 33 15-12m66-21-3 33-15-12" fill="#d8c0b1" stroke="none"/>
+    <path d="M69 122q24 4 51 26 27-22 51-26-1 45-51 62-50-17-51-62z" fill="#e4e4d7" stroke="none"/>
+    <path d="M87 110h1m64 0h1" stroke-width="8"/>
+    <path d="m111 143 9 7 9-7q-9-6-18 0z" fill="#65554b" stroke-width="3"/>
+    <path d="M120 151v6m-10 6q10 6 20 0" fill="none" stroke-width="4"/>
+    <path d="M100 194v19m40-19v19" fill="none" stroke-width="4"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title-dolphin">
+  <title id="title-dolphin">轻轻跃出水面的海豚</title>
+  <g stroke="#4b4037" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 205q17-8 34 0m65 0q17-8 34 0" fill="none" stroke="#bdcfc7" stroke-width="4"/>
+    <path d="M101 87q-7-30 16-47 2 25 22 36" fill="#8eaea9"/>
+    <path d="M56 158q-19 4-31-12 3 29 28 38-5 20 10 32 11-17 12-41" fill="#8eaea9"/>
+    <path d="M55 165c12-26 19-66 55-85 35-20 78-5 88 25 5 11 15 12 20 18 4 7-4 13-18 13-11 34-43 44-73 41-29-3-49-4-72-12z" fill="#9ab8b3"/>
+    <path d="M79 163q40-29 74-17 25 8 41-12-5 36-61 36-28-2-54-7z" fill="#dbe6dc" stroke="none"/>
+    <path d="M122 145q-10 25 10 42 14-17 15-35" fill="#8eaea9"/>
+    <circle cx="173" cy="109" r="5" fill="#4b4037" stroke="none"/>
+    <circle cx="174" cy="107" r="1.4" fill="#fff7e7" stroke="none"/>
+    <path d="M180 130q12 7 24 0" fill="none" stroke-width="4"/>
+    <ellipse cx="165" cy="126" rx="9" ry="5" fill="#d4bbb0" stroke="none"/>
+    <path d="m66 58-6-10m-10 33-11-4m148-23 7-8" fill="none" stroke="#c0d1c3" stroke-width="5"/>
+  </g>
+</svg>

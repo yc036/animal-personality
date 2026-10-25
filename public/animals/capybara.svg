@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title-capybara">
+  <title id="title-capybara">圆鼻子的松弛水豚</title>
+  <g stroke="#4b4037" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="120" cy="220" rx="71" ry="9" fill="#e8dfd1" stroke="none"/>
+    <path d="M78 164q-17 21-12 46c19 14 89 14 108 0q5-25-12-46" fill="#bb9676"/>
+    <path d="M88 194v20m64-20v20" fill="none"/>
+    <circle cx="70" cy="69" r="15" fill="#bb9676"/>
+    <circle cx="170" cy="69" r="15" fill="#bb9676"/>
+    <path d="M56 104c0-30 25-47 64-47s64 17 64 47v39c0 29-23 46-64 46s-64-17-64-46z" fill="#c4a080"/>
+    <path d="M79 110h12m58 0h12" fill="none" stroke-width="5"/>
+    <path d="M76 137q0-11 13-11h62q13 0 13 11v18q0 18-44 18t-44-18z" fill="#d8b58f" stroke="none"/>
+    <path d="M100 143h1m38 0h1" stroke-width="6"/>
+    <path d="M111 158q9 5 18 0" fill="none" stroke-width="4"/>
+    <ellipse cx="70" cy="139" rx="9" ry="5" fill="#d4a58b" stroke="none"/>
+    <ellipse cx="170" cy="139" rx="9" ry="5" fill="#d4a58b" stroke="none"/>
+    <path d="M111 56q-10-21 8-26 15 7 6 26" fill="#a8b99a" stroke-width="4"/>
+    <path d="m119 37 1 19" fill="none" stroke-width="3"/>
+  </g>
+</svg>

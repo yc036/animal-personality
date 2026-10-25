@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title-penguin">
+  <title id="title-penguin">稳稳站好的小企鹅</title>
+  <g stroke="#4b4037" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="120" cy="221" rx="68" ry="8" fill="#e8dfd1" stroke="none"/>
+    <path d="M81 197q-17 1-21 14 18 11 43 2m56-16q17 1 21 14-18 11-43 2" fill="#dcb27d"/>
+    <path d="M66 111q-34 24-27 60 15-1 33-23m102-37q34 24 27 60-15-1-33-23" fill="#54615e"/>
+    <path d="M58 122c0-55 22-85 62-85s62 30 62 85v29c0 43-22 62-62 62s-62-19-62-62z" fill="#54615e"/>
+    <path d="M77 114q-2-31 23-32 13 0 20 14 7-14 20-14 25 1 23 32v43q0 37-43 37t-43-37z" fill="#f3eedf" stroke="none"/>
+    <path d="M95 114h1m48 0h1" stroke-width="8"/>
+    <path d="m109 133 11-7 11 7-11 11z" fill="#dcb27d" stroke-width="4"/>
+    <ellipse cx="84" cy="134" rx="9" ry="5" fill="#e4c3ae" stroke="none"/>
+    <ellipse cx="156" cy="134" rx="9" ry="5" fill="#e4c3ae" stroke="none"/>
+    <path d="M100 175q20 8 40 0" fill="none" stroke="#ddd6c3" stroke-width="4"/>
+  </g>
+</svg>

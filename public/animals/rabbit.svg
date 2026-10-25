@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title-rabbit">
+  <title id="title-rabbit">捧着小爪子的轻声小兔</title>
+  <g stroke="#4b4037" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="120" cy="220" rx="63" ry="8" fill="#e8dfd1" stroke="none"/>
+    <path d="M83 167q-18 23-10 44c19 13 75 13 94 0q8-21-10-44" fill="#eee5d7"/>
+    <ellipse cx="90" cy="67" rx="20" ry="49" transform="rotate(-12 90 67)" fill="#f6eee2"/>
+    <ellipse cx="150" cy="67" rx="20" ry="49" transform="rotate(12 150 67)" fill="#f6eee2"/>
+    <path d="M84 35q-4 28 6 51m66-51q4 28-6 51" fill="none" stroke="#ddb8b0" stroke-width="12"/>
+    <path d="M60 127c0-32 24-53 60-53s60 21 60 53v15c0 31-25 48-60 48s-60-17-60-48z" fill="#f6eee2"/>
+    <path d="M94 128h1m50 0h1" stroke-width="8"/>
+    <path d="M114 144q6-5 12 0l-6 6z" fill="#ca948d" stroke-width="3"/>
+    <path d="M120 151q-1 12-12 7m12-7q1 12 12 7" fill="none" stroke-width="4"/>
+    <ellipse cx="80" cy="148" rx="11" ry="6" fill="#eac9bc" stroke="none"/>
+    <ellipse cx="160" cy="148" rx="11" ry="6" fill="#eac9bc" stroke="none"/>
+    <path d="M92 190q11-10 21 2m35-2q-11-10-21 2" fill="none"/>
+    <path d="M113 193q7 5 14 0" fill="none"/>
+  </g>
+</svg>

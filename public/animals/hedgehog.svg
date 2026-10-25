@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title-hedgehog">
+  <title id="title-hedgehog">圆润短刺的小刺猬</title>
+  <g stroke="#4b4037" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="120" cy="218" rx="73" ry="9" fill="#e8dfd1" stroke="none"/>
+    <path d="m45 162-12-19 16-12-8-23 20-8 1-26 23 1 10-25 23 10 20-18 17 22 25-1 4 25 24 9-8 24 17 18-15 19 6 24-24 7-4 25H69l-6-23-24-8z" fill="#aa8c74"/>
+    <path d="m67 108 8-15m20-17 7 16m33-24-1 17m26 9 11 13m-109 26 11 9m103-18 13 5" fill="none" stroke="#ddc5a7" stroke-width="4"/>
+    <path d="M61 155c0-28 27-49 59-49s59 21 59 49v13c0 29-26 44-59 44s-59-15-59-44z" fill="#efe1cc"/>
+    <circle cx="83" cy="129" r="12" fill="#efe1cc"/>
+    <circle cx="157" cy="129" r="12" fill="#efe1cc"/>
+    <path d="M94 157h1m50 0h1" stroke-width="8"/>
+    <path d="M112 174q8-6 16 0l-8 7z" fill="#665249"/>
+    <path d="M112 190q8 6 16 0" fill="none" stroke-width="4"/>
+    <ellipse cx="79" cy="176" rx="10" ry="6" fill="#dfb7a1" stroke="none"/>
+    <ellipse cx="161" cy="176" rx="10" ry="6" fill="#dfb7a1" stroke="none"/>
+    <path d="M79 205q-3 14 12 13m70-13q3 14-12 13" fill="#b49a7b"/>
+  </g>
+</svg>
